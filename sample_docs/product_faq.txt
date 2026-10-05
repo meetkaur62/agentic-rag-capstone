@@ -1,0 +1,19 @@
+Nimbus Retail - Customer FAQ (updated August 2026)
+
+Q: What is the return policy?
+A: Most products can be returned within 30 days of delivery if unused and in original packaging. Electronics have a 10-day return window. Innerwear and personalised items cannot be returned.
+
+Q: How long does a refund take?
+A: Refunds are processed within 5 to 7 business days after the returned item passes quality check. UPI refunds are usually faster, within 2 business days.
+
+Q: Do you offer warranty on electronics?
+A: All electronics carry a 1-year manufacturer warranty. The NimbusCare extended warranty adds 2 more years for 8% of the product price.
+
+Q: What are the delivery charges?
+A: Delivery is free on orders above Rs. 499. Orders below Rs. 499 have a delivery fee of Rs. 49. Express delivery in Indore, Bhopal and Ujjain costs Rs. 99 and arrives the next day.
+
+Q: How do I contact customer support?
+A: Call 1800-200-4455 (toll free, 9 AM to 9 PM, all days) or email support@nimbusretail.example.
+
+Q: Which payment methods are accepted?
+A: UPI, credit cards, debit cards, net banking, and cash on delivery for orders below Rs. 10,000.

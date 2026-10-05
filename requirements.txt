@@ -1,0 +1,19 @@
+# Agent orchestration
+langgraph>=0.2.0
+# LLM APIs (Groq + Gemini both expose OpenAI-compatible endpoints)
+openai>=1.40.0
+# Embeddings + re-ranker (Hugging Face, open-source)
+sentence-transformers>=3.0.0
+# Vector database + keyword search
+chromadb>=0.5.0
+rank_bm25>=0.2.2
+# Document parsing
+pymupdf>=1.24.0
+pymupdf4llm  # layout-aware PDF parsing: multi-column text, tables as Markdown, OCR via Tesseract
+pandas>=2.0.0
+openpyxl>=3.1.0
+xlrd>=2.0.1
+tabulate>=0.9.0
+# UI
+gradio>=5.0.0
+python-dotenv>=1.0.0
